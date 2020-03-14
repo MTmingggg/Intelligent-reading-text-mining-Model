@@ -1,5 +1,5 @@
 # Intelligent-reading-text-mining-Model
-本模型是基于Python编写的智能文本挖掘模型。主要步骤包含数据集的格式转换，Jieba分词，去停用词，高权重的关键词提取，利用向量化方法对文本信息进行特征提取等。
+本模型是基于Python3编写的智能文本挖掘模型。主要步骤包含数据集的格式转换，Jieba分词，去停用词，高权重的关键词提取，利用向量化方法对文本信息进行特征提取等。
 # 训练集格式转换
 transform.py中的transform()函数拿出content和question两列文本，保存于lab.txt。
 # Jieba中文分词
